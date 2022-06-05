@@ -1,0 +1,17 @@
+Latitude and Longitude Finder
+https://www.latlong.net/
+
+International Space Station Current Location
+http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+
+Sunset and sunrise times API
+https://sunrise-sunset.org/api
+
+Python String split() Method
+https://www.w3schools.com/python/ref_string_split.asp
+
+
+
+
+
+
